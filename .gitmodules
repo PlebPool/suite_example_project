@@ -1,0 +1,12 @@
+[submodule "cstring"]
+	path = cstring
+	url = git@github.com:PlebPool/cstring.git
+[submodule "cthread"]
+	path = cthread
+	url = git@github.com:PlebPool/cthread.git
+[submodule "cssl"]
+	path = cssl
+	url = git@github.com:PlebPool/cssl.git
+[submodule "csock"]
+	path = csock
+	url = git@github.com:PlebPool/csock.git
